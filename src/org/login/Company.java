@@ -7,7 +7,8 @@ import java.util.Set;
 
 public class Company {
 public static void main(String[] args) {
-	
+	System.out.println("Branch A");
+	System.out.println("work done");
 	String s ="Java Application";
 	char[] c = s.toCharArray();
 	Map<Character, Integer>m = new LinkedHashMap();
